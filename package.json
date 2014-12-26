@@ -1,4 +1,7 @@
 {
   "name": "news-app-2",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
 }
